@@ -1,0 +1,320 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+font-family: Arial;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+  <h1>MySkills</h1>
+  <table>
+  <tr>
+    <th><h2>PlayVolleyball</h2></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th></th>
+    <th><h2>Singing</h2></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><h2>Swimming</h2></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th><h2>PlayComputerGames</h2></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th><h2>C++</h2></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th><h2>C#</h2></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th><p><img src="Zirochka.png" ></p></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+  <th><h2>Painting</h2></th>
+  <th><p><img src="Zirochka.png" ></p></th>
+  <th><p><img src="Zirochka.png" ></p></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th><h2>HTML5</h2></th>
+  <th><p><img src="Zirochka.png" ></p></th>
+  <th><p><img src="Zirochka.png" ></p></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  </tr>
+  <tr>
+  <th><h2>Photography</h2></th>
+  <th><p><img src="Zirochka.png" ></p></th>
+  <th><p><img src="Zirochka.png" ></p></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th><h2>JavaScript</h2></th>
+  <th><p><img src="Zirochka.png" ></p></th>
+  <th><p><img src="Zirochka.png" ></p></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  </tr>
+</table>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: maroon;
+}
+
+h1 {
+  color: white;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+font-family: Arial;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+  <table>
+  <tr>
+    <th><p><img src="Opera Снимок_2020-10-21_232658_classroom.google.com.png" ></p></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th><h1>Завдання до лаби</h1></th>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <td><h1>Skills</h1></td>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <td><h1>Hobbies</h1></td>
+  </tr>
+  <tr>
+    <th></th>
+    <td><h1>MyEducation</h1></td>
+    <th></th>
+    <th></th>
+    <td><h1>Table</h1></td>
+  </tr>
+</table>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: maroon;
+}
+
+h1 {
+  color: white;
+  text-decoration: underline;
+  text-align: left;
+}
+p1{
+  color: white;
+  font-family: Arial;
+    font-size: 15px;
+}
+p {
+font-family: Arial;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+<h1><em>Желобков Микита Русланович<em/></h1>
+<ul>
+  <p1>
+    Контактна інформація:<br>
+    6357857@stud.nau.edu.ua<br>
+    +380956235162
+  </p1>
+</ul>
+<br>
+<br>
+<hr />
+<ul>
+    <p>
+      Доброго часу доби, мене звати Микита і це мій персональний сайт.<br>
+      Народився я 18 років тому, 15 грудня у 2001 року.<br>
+      Зараз з'являюся студентом, а в майбутньому сподіваюся бути програмістом, бо ця спеціальність звертає мою увагу на себе вже досить давно.<br>
+    </p>
+</ul>
+<hr />
+<br>
+<br>
+<br>
+<p><a href="MyEducation.html"><H3>Освіта</H3></a></p>
+<p><a href="Hobbies.html"><H3>Хобі</H3></a></p>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: maroon;
+}
+
+h1 {
+  color: white;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+font-family: Arial;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+  <form action="/action_page.html" method="get">
+  <label for="yname">Your Name:</label>
+  <input type="text" id="yname" name="yname"><br><br>
+  <label for="email">Your email:</label>
+  <input type="email"><br><br>
+  <label for="">Your Message:</label>
+  <textarea name="name" rows="10" cols="30"></textarea>
+  <br>
+  <br>
+  <input type="submit" value="Submit">
+</form>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: maroon;
+}
+
+h1 {
+  color: white;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+font-family: Arial;
+  font-size: 15px;
+}
+</style>
+</head>
+<body>
+  <h1><em>Мої хобі<em/></h1>
+  <ul>
+    <p>
+      Я обожнюю грати в волейбол! В кожних шкільних змаганнях я брав участь і наша команда навіть вигравала міські змагання.<br>
+      Звісно ще мені подобається програмувати, писати код і так далі...<br>
+      Ще я люблю дивитись фільми та серіали.Одні з моїх улюблених:<br>
+      <ul>
+       <li>
+       Гарі Поттер, всі частини, але найулюбленіша, мабуть, це перша частина<br>
+       </li>
+       <li>
+       Нестаріюча класика "Один вдома".<br>
+       </li>
+       <li>
+       Серіал Відьмак від Netflix.<br>
+       </li>
+       <li>
+       Та майже всі фільми від Marvel.<br>
+       </li>
+      </ul><br>
+      Ну і звісно грати в комп'ютерні ігри.<br>
+    </p>
+  </ul>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: maroon;
+}
+
+h1 {
+  color: white;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+font-family: Arial;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+  <h1><em>Моя освіта<em/></h1>
+  <ul>
+    <p>
+      <li>
+      2008 року пішов до першого класу середньої школи № 6 м. Первомайськ, в якій провчився до 2014 року (шостого класу).<br>
+      </li>
+      <li>
+      2014 року пішов до сьомого класу середньої школи № 37 м. Харкова, в якій не провчився і двох місяців.<br>
+      </li>
+      <li>
+      2014 року пішов до сьомого класу середньої школи № 42 м. Гомеля(Білорусь), яку закінчив у 2019 року.<br>
+      </li>
+      <li>
+      2019 року вступив до Національного авіаційного університету за спеціальністю 121 «Інженерія програмного забезпечення», студентом 2 курсу якого я зараз і з'являюсь.<br>
+      </li>
+    </p>
+  </ul>
